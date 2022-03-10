@@ -1,0 +1,4 @@
+baseURL: http://radityarestan.github.io/
+languageCode: id-ID
+title: My New Hugo Site
+theme: "PaperMod"
