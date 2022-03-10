@@ -1,19 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Projek Radit</title>
     <link>http://radityarestan.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Projek Radit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-ID</language>
-    <lastBuildDate>Thu, 10 Mar 2022 12:28:56 +0700</lastBuildDate><atom:link href="http://radityarestan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2022 13:12:20 +0700</lastBuildDate><atom:link href="http://radityarestan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://radityarestan.github.io/posts/my-first-post/</link>
+      <title>Anak Informatika</title>
+      <link>http://radityarestan.github.io/posts/anak-informatika/</link>
+      <pubDate>Thu, 10 Mar 2022 13:12:20 +0700</pubDate>
+      
+      <guid>http://radityarestan.github.io/posts/anak-informatika/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cash Cow</title>
+      <link>http://radityarestan.github.io/posts/cash-cow/</link>
+      <pubDate>Thu, 10 Mar 2022 13:12:12 +0700</pubDate>
+      
+      <guid>http://radityarestan.github.io/posts/cash-cow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petualanganku</title>
+      <link>http://radityarestan.github.io/posts/petualanganku/</link>
+      <pubDate>Thu, 10 Mar 2022 13:11:21 +0700</pubDate>
+      
+      <guid>http://radityarestan.github.io/posts/petualanganku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sidia</title>
+      <link>http://radityarestan.github.io/posts/sidia/</link>
+      <pubDate>Thu, 10 Mar 2022 13:10:46 +0700</pubDate>
+      
+      <guid>http://radityarestan.github.io/posts/sidia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remee Bot</title>
+      <link>http://radityarestan.github.io/posts/remee-bot/</link>
+      <pubDate>Thu, 10 Mar 2022 13:02:01 +0700</pubDate>
+      
+      <guid>http://radityarestan.github.io/posts/remee-bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staces App</title>
+      <link>http://radityarestan.github.io/posts/staces-app/</link>
+      <pubDate>Thu, 10 Mar 2022 13:02:00 +0700</pubDate>
+      
+      <guid>http://radityarestan.github.io/posts/staces-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalku-Ku</title>
+      <link>http://radityarestan.github.io/posts/kalku-ku/</link>
       <pubDate>Thu, 10 Mar 2022 12:28:56 +0700</pubDate>
       
-      <guid>http://radityarestan.github.io/posts/my-first-post/</guid>
-      <description>Haloo it&amp;rsquo;s me radit</description>
+      <guid>http://radityarestan.github.io/posts/kalku-ku/</guid>
+      <description></description>
     </item>
     
   </channel>
